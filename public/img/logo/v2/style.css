@@ -1,0 +1,219 @@
+/*
+* Prefixed by:
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+/* Keyframes */
+
+@-webkit-keyframes line2 {
+  0% {
+    stroke-dashoffset: 1787.816;
+    stroke-opacity: 1;
+  }
+  10% {
+    fill-opacity: 0;
+    stroke-dashoffset: 0;
+    stroke-opacity: 1;
+  }
+  20% {
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  80% {
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  90%{
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+}
+
+@keyframes line2 {
+  0% {
+    stroke-dashoffset: 1787.816;
+    stroke-opacity: 1;
+  }
+  10% {
+    fill-opacity: 0;
+    stroke-dashoffset: 0;
+    stroke-opacity: 1;
+  }
+  20% {
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  80% {
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  90%{
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+}
+
+@-webkit-keyframes line1 {
+  0% {
+    stroke-dashoffset: 1317.52;
+    stroke-opacity: 1;
+  }
+  20% {
+    stroke-dashoffset: 1317.52;
+    stroke-opacity: 1;
+  }
+  30% {
+    fill-opacity: 0;
+    stroke-dashoffset: 0;
+    stroke-opacity: 1;
+  }
+  40% {
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  80%{
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  90% {
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+}
+
+@keyframes line1 {
+  0% {
+    stroke-dashoffset: 1317.52;
+    stroke-opacity: 1;
+  }
+  20% {
+    stroke-dashoffset: 1317.52;
+    stroke-opacity: 1;
+  }
+  30% {
+    fill-opacity: 0;
+    stroke-dashoffset: 0;
+    stroke-opacity: 1;
+  }
+  40% {
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  80%{
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  90% {
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+}
+
+@-webkit-keyframes rotate3d {
+  0% {
+    -webkit-transform: rotateY(0deg);
+            transform: rotateY(0deg);
+  }
+  40% {
+    -webkit-transform: rotateY(0deg);
+            transform: rotateY(0deg);
+  }
+  60% {
+    -webkit-transform: rotateY(360deg);
+            transform: rotateY(360deg);
+  }
+  100% {
+    -webkit-transform: rotateY(360deg);
+            transform: rotateY(360deg);
+  }
+}
+
+@keyframes rotate3d {
+  0% {
+    -webkit-transform: rotateY(0deg);
+            transform: rotateY(0deg);
+  }
+  40% {
+    -webkit-transform: rotateY(0deg);
+            transform: rotateY(0deg);
+  }
+  60% {
+    -webkit-transform: rotateY(360deg);
+            transform: rotateY(360deg);
+  }
+  100% {
+    -webkit-transform: rotateY(360deg);
+            transform: rotateY(360deg);
+  }
+}
+
+/* eof keyframes */
+
+
+/*
+* Prefixed by:
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+/* Reset Browser Styles */
+body {
+  margin: 0;
+  padding: 0;
+}
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#Vector_2 {
+  stroke-dasharray: 1787.816;
+  stroke-opacity: 0;
+  -webkit-animation: line2 6.5s ease-in-out infinite;
+          animation: line2 6.5s ease-in-out infinite;
+}
+
+#Vector {
+  -webkit-transform-origin: 174px 174px;
+      -ms-transform-origin: 174px 174px;
+          transform-origin: 174px 174px;
+  stroke-dasharray: 1317.52;
+  stroke-opacity: 1;
+  -webkit-animation: line1 6.5s linear infinite;
+          animation: line1 6.5s linear infinite;
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="79.375mm" height="79.375mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 459.72 459.72"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="654" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="900">
+	<font-face 
+		font-family="Slenco Black">
+		<font-face-src>
+			<font-face-name name="Slenco-Black"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="o" horiz-adv-x="509" d="M255 462c-129,0 -234,-105 -234,-234 0,-129 105,-234 234,-234 129,0 234,105 234,234 0,129 -105,234 -234,234zm0 -324c-45,0 -81.9998,40 -81.9998,90 0,50 36.9998,90 81.9998,90 45,0 81.9998,-40 81.9998,-90 0,-50 -36.9998,-90 -81.9998,-90z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Slenco Black";font-variant:normal;font-style:normal;font-weight:900;src:url("#FontID0") format(svg)}
+    .fil3 {fill:none;fill-rule:nonzero}
+    .fil4 {fill:#8A06BE}
+    .fil2 {fill:#E4A6FC}
+    .fil0 {fill:#F2D1FF;fill-rule:nonzero}
+    .fil1 {fill:#FAFAFA;fill-rule:nonzero;fill-opacity:0.000000}
+    .fnt1 {font-weight:900;font-size:405.54px;font-family:'Slenco Black'}
+    .fnt0 {font-weight:900;font-size:927.37px;font-family:'Slenco Black'}
+   ]]>
+  </style>
+   <clipPath id="id0" style="clip-rule:nonzero">
+    <path d="M15.32 4.6l429.07 0c5.92,0 10.73,4.8 10.73,10.73l0 429.07c0,5.92 -4.8,10.73 -10.73,10.73l-429.07 0c-5.92,-0 -10.73,-4.8 -10.73,-10.73l-0 -429.07c0,-5.92 4.8,-10.73 10.73,-10.73z"/>
+   </clipPath>
+   <clipPath id="id1" style="clip-rule:nonzero">
+    <path d="M15.32 4.6l429.07 0c5.92,0 10.73,4.8 10.73,10.73l0 429.07c0,5.92 -4.8,10.73 -10.73,10.73l-429.07 0c-5.92,-0 -10.73,-4.8 -10.73,-10.73l-0 -429.07c0,-5.92 4.8,-10.73 10.73,-10.73z"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M15.32 0l429.07 0c8.46,0 15.32,6.86 15.32,15.32l0 429.07c0,8.46 -6.86,15.32 -15.32,15.32l-429.07 0c-8.46,-0 -15.32,-6.86 -15.32,-15.32l-0 -429.07c0,-8.46 6.86,-15.32 15.32,-15.32z"/>
+  <g style="clip-path:url(#id0)">
+   <polygon class="fil1" points="4.6,4.6 455.12,4.6 455.12,455.12 4.6,455.12 "/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <g id="_2250840132368">
+    <text x="-231.88" y="441.3"  class="fil2 fnt0">o</text>
+   </g>
+  </g>
+  <path class="fil3" d="M15.32 4.6l429.07 0c5.92,0 10.73,4.8 10.73,10.73l0 429.07c0,5.92 -4.8,10.73 -10.73,10.73l-429.07 0c-5.92,-0 -10.73,-4.8 -10.73,-10.73l-0 -429.07c0,-5.92 4.8,-10.73 10.73,-10.73z"/>
+  <text x="126.45" y="322.32"  class="fil4 fnt1">o</text>
+ </g>
+</svg>

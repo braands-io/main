@@ -1,0 +1,238 @@
+<svg width="338" height="338" viewBox="-5 -5 343 343" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="338" height="338" />
+    <g id="icon">
+      <g id="inner">
+        <path stroke="#F20C6A" stroke-opacity="1" stroke-width="1" id="Vector" fill-rule="evenodd" clip-rule="evenodd"
+          d="M164.3 87.6C150 88.4 135.8 93 123.3 101.5C101.6 116.2 89.1002 139.8 87.7002 164.5V173.7C88.3002 184.2 90.9002 194.6 95.7002 204.6C108.8 231.8 135.4 248.7 164.1 250.5H174.2C180.6 250.1 187.1 248.9 193.5 246.9C195.9 246.2 197.7 243.9 197.7 241.3C197.7 238.1 195.1 235.5 191.9 235.5C191.2 235.5 190.6 235.6 190 235.8C156.9 246.2 121.2 230.8 106.1 199.5C91.0002 168.2 101 130.7 129.8 111.2C158.5 91.7 197.1 96.2 220.6 121.8C243.3 146.5 244.7 182.3 225.1 209.1C219 207.1 214.5 203.5 211.1 198C207.1 191.6 204.5 182.1 204 169.2V169C204 149.8 188.3 134 169 134C149.7 134 134 149.7 134 169C134 188.2 149.7 204 169 204C179.6 204 189.2 199.2 195.6 191.6C197 196.2 198.8 200.4 201.1 204.1C206.6 212.8 214.9 218.6 225.1 221.1C225.7 221.3 226.4 221.5 227.2 221.5C229 221.5 230.7 220.6 231.8 219.3C257.2 188 256.4 143.6 229.1 113.8C214.3 97.7 194.3 88.8 173.8 87.5H164.3V87.6ZM192.4 169C192.4 156.1 182 145.7 169.1 145.7C156.2 145.7 145.8 156.1 145.8 169C145.8 181.9 156.2 192.3 169.1 192.3C182 192.3 192.4 181.9 192.4 169Z"
+          fill="#F20C6A" fill-opacity="0" />
+      </g>
+      <g id="outer">
+        <path stroke="#F20C6A" stroke-opacity="1" stroke-width="1" id="Vector_2"
+          d="M254.1 120C263 135.2 267.5 151.5 267.5 169C267.5 186.9 263.1 203.3 254.4 218.3C245.3 233.3 233.1 245.2 217.9 254.2C202.7 263.1 186.4 267.6 168.9 267.6C150.6 267.6 134.2 263 119.6 253.9C104.6 245.2 92.7 233.2 83.7 218C74.8 202.8 70.3 186.5 70.3 169C70.3 150.7 74.9 134.3 84 119.7C92.7 104.7 104.7 92.8 119.9 83.8C135.1 74.9 151.4 70.4 168.9 70.4C186.8 70.4 203.2 74.8 218.2 83.5C233.2 92.7 245.2 104.9 254.1 120ZM267.5 306.2V336.1H337.3L338 164C338 134.5 330.3 107 314.9 81.7C299.5 56.8 278.8 36.9 252.9 22.1C226.9 7.30001 199 0 169 0C138.6 0 110.6 7.5 84.8 22.5C58.6 37.9 37.9 58.6 22.8 84.5C7.59999 110.5 0 138.7 0 169C0 199.8 7.69998 227.8 23.1 253.2C38.1 279.4 58.5 300.1 84.5 315.2C110.5 330.4 138.6 338 169 338C204.8 338 237.6 327.4 267.5 306.2Z"
+          fill="#F20C6A" fill-opacity="0" />
+      </g>
+    </g>
+    <defs>
+    <style>
+  /*
+* Prefixed by:
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+/* Keyframes */
+
+@-webkit-keyframes line2 {
+  0% {
+    stroke-dashoffset: 1787.816;
+    stroke-opacity: 1;
+  }
+  10% {
+    fill-opacity: 0;
+    stroke-dashoffset: 0;
+    stroke-opacity: 1;
+  }
+  20% {
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  80% {
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  90%{
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+}
+
+@keyframes line2 {
+  0% {
+    stroke-dashoffset: 1787.816;
+    stroke-opacity: 1;
+  }
+  10% {
+    fill-opacity: 0;
+    stroke-dashoffset: 0;
+    stroke-opacity: 1;
+  }
+  20% {
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  80% {
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  90%{
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+}
+
+@-webkit-keyframes line1 {
+  0% {
+    stroke-dashoffset: 1317.52;
+    stroke-opacity: 1;
+  }
+  20% {
+    stroke-dashoffset: 1317.52;
+    stroke-opacity: 1;
+  }
+  30% {
+    fill-opacity: 0;
+    stroke-dashoffset: 0;
+    stroke-opacity: 1;
+  }
+  40% {
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  80%{
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  90% {
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+}
+
+@keyframes line1 {
+  0% {
+    stroke-dashoffset: 1317.52;
+    stroke-opacity: 1;
+  }
+  20% {
+    stroke-dashoffset: 1317.52;
+    stroke-opacity: 1;
+  }
+  30% {
+    fill-opacity: 0;
+    stroke-dashoffset: 0;
+    stroke-opacity: 1;
+  }
+  40% {
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  80%{
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+    stroke-opacity: 1;
+  }
+  90% {
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    fill-opacity: 0;
+    stroke-opacity: 0;
+  }
+}
+
+@-webkit-keyframes rotate3d {
+  0% {
+    -webkit-transform: rotateY(0deg);
+            transform: rotateY(0deg);
+  }
+  40% {
+    -webkit-transform: rotateY(0deg);
+            transform: rotateY(0deg);
+  }
+  60% {
+    -webkit-transform: rotateY(360deg);
+            transform: rotateY(360deg);
+  }
+  100% {
+    -webkit-transform: rotateY(360deg);
+            transform: rotateY(360deg);
+  }
+}
+
+@keyframes rotate3d {
+  0% {
+    -webkit-transform: rotateY(0deg);
+            transform: rotateY(0deg);
+  }
+  40% {
+    -webkit-transform: rotateY(0deg);
+            transform: rotateY(0deg);
+  }
+  60% {
+    -webkit-transform: rotateY(360deg);
+            transform: rotateY(360deg);
+  }
+  100% {
+    -webkit-transform: rotateY(360deg);
+            transform: rotateY(360deg);
+  }
+}
+
+/* eof keyframes */
+
+
+/*
+* Prefixed by:
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+/* Reset Browser Styles */
+body {
+  margin: 0;
+  padding: 0;
+}
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#Vector_2 {
+  stroke-dasharray: 1787.816;
+  stroke-opacity: 0;
+  -webkit-animation: line2 6.5s ease-in-out infinite;
+          animation: line2 6.5s ease-in-out infinite;
+}
+
+#Vector {
+  -webkit-transform-origin: 174px 174px;
+      -ms-transform-origin: 174px 174px;
+          transform-origin: 174px 174px;
+  stroke-dasharray: 1317.52;
+  stroke-opacity: 1;
+  -webkit-animation: line1 6.5s linear infinite;
+          animation: line1 6.5s linear infinite;
+}
+    </style>
+    </defs>
+  </svg>

@@ -1,0 +1,21 @@
+/* Reset Browser Styles */
+body {
+  margin: 0;
+  padding: 0;
+}
+* {
+  box-sizing: border-box;
+}
+
+#Vector_2 {
+  stroke-dasharray: 1787.816;
+  stroke-opacity: 0;
+  animation: line2 6.5s ease-in-out infinite;
+}
+
+#Vector {
+  transform-origin: 174px 174px;
+  stroke-dasharray: 1317.52;
+  stroke-opacity: 1;
+  animation: line1 6.5s linear infinite;
+}

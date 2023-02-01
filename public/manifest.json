@@ -1,0 +1,25 @@
+{
+  "short_name": "Brands.io",
+  "name": "Brands.io",
+  "icons": [
+    {
+      "src": "/img/logo/v2/icon.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg"
+    },
+    {
+      "src": "img/braands_pink_logo.png",
+      "type": "image/png",
+      "sizes": "512x117"
+    },
+    {
+      "src": "img/braands__pink_logo.png",
+      "type": "image/png",
+      "sizes": "512x117"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
